@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_subcategory_subcategories",
+  "info": {
+    "displayName": "Subcategory",
+    "icon": "oneToMany"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
